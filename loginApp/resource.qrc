@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>img/login.jpg</file>
+        <file>img/logout.png</file>
+        <file>img/logout2.png</file>
+        <file>img/user.png</file>
+        <file>img/user (1).png</file>
+    </qresource>
+</RCC>
